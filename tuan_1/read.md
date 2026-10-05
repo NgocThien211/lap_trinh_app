@@ -21,12 +21,12 @@ Internet và cách tiếp cận tri thức
 Bài 5 Chúng ta cần học khi đã có AI
 +Học nền tảng, hiểu bản chất 
 + Học cách đặt câu hỏi , biết viết promt đúng cách để AI hỗ trợ
-+Học cách kiểmtra AI có trả lời đúng chủ đề , chứ không tin ảo giác AI
-+Học cách dùng AI hỗ trợ để làm nhanh công việc
++ Học cách kiểmtra AI có trả lời đúng chủ đề , chứ không tin ảo giác AI
++ Học cách dùng AI hỗ trợ để làm nhanh công việc
 + Học kỹ năng mềm như giao tiếp, tiếng anh, thuyết trình.
   
 Bài 6: Những kĩ năng cần phát triển hiện nay
-+AI tổng hợp từ cái đã có, tự suy nghĩ ý tưởng và hướng đi mới
++ AI tổng hợp từ cái đã có, tự suy nghĩ ý tưởng và hướng đi mới
 + xác định, lập kế hoạch tìm hiểu để giải quyết vấn đề trước khi nhờ AI
-+Giao tiếp, làm việc nhóm
++ Giao tiếp, làm việc nhóm
 + Khả năng tự học, thích nghi, tìm hiểu công nghệ mới
