@@ -15,7 +15,8 @@ Internet và cách tiếp cận tri thức
 
 +sau khi có internet: Lên mạng kiếm tài liệu dễ dàng hơn từ nhiều nguồn, chỉ cần nhớ nguồn là có thể lấy tài liệu hoặc có thể down, chụp ảnh,.. sau đó có thể coi lại nhiều lần, dễ dàng tiếp cận
 
-+ sau khi có AI: chỉ cần nhập những gì mà mình cần tìm kiếm, đặt câu hỏi cho AI , có thể sử dụng để viết bài mẫu, tóm tắt nội dung, tìm và chọn lọc hàng nghìn nội dung về cùng 1 chủ đề trên mạng,… dễ dàng học những thứ mình thích, tiếp cận tri thức dễ dàng hơn
++ sau khi có AI: chỉ cần nhập những gì mà mình cần tìm kiếm, đặt câu hỏi cho AI , có thể sử dụng để viết bài mẫu, tóm tắt nội dung, tìm và chọn lọc hàng nghìn nội dung về cùng 1 chủ đề trên mạng,… dễ dàng học những thứ mình thích, tiếp cận tri thức dễ dàng hơn.
+  
 
 Bài 5 Chúng ta cần học khi đã có AI
 +Học nền tảng, hiểu bản chất 
