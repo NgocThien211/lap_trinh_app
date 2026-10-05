@@ -8,7 +8,7 @@ Bài 4
 
 HAA là mô hình học thay thế cách dạy đại học truyền thông mới được áp dụng và sử dụng ở mỹ trong khoảng 1 năm, vẫn mới bắt đầu thử nghiệm .
 Ưu điểm : Môi trường thực tế, không cần học những lí thuyết khô khan, học và thực hành ưu tiên tạo ra các sản phẩm thực tế, thời gian học ngắn nhưng học được khá nhiều kĩ năng làm việc ngay từ đầu.
-Nhược điểm : Nền tảng kiến thức chuyên môn rộng sẽ không đủ kiến thức để giải quyết các vấn đề khó, thời gian ngắn deadline nhiều có thể ảnh hưởng đến chất lượng và kết quả của sản phẩm, Vì chưa được chính thống nền nhiều khi các công ty chưa tin tưởng tuyển dụng, không thể học lên cao hơn
+Nhược điểm : Nền tảng kiến thức chuyên môn rộng sẽ không đủ kiến thức để giải quyết các vấn đề khó, thời gian ngắn deadline nhiều có thể ảnh hưởng đến chất lượng và kết quả của sản phẩm, Vì chưa được chính thống nền nhiều khi các công ty chưa tin tưởng tuyển dụng, không thể học lên cao hơn.
 Bài 5
 Internet và cách tiếp cận tri thức
 + Chưa có internet:  việc tìm kiếm tài liệu hay học hỏi điều mới đều dựa vào sách, đi nghe truyền miệng, lên các thư viện,… phải ghi chép lại và học thuộc những kiến thức mình tìm kiếm
@@ -23,7 +23,8 @@ Bài 5 Chúng ta cần học khi đã có AI
 + Học cách đặt câu hỏi , biết viết promt đúng cách để AI hỗ trợ
 +Học cách kiểmtra AI có trả lời đúng chủ đề , chứ không tin ảo giác AI
 +Học cách dùng AI hỗ trợ để làm nhanh công việc
-+ Học kỹ năng mềm như giao tiếp, tiếng anh, thuyết trình, …
++ Học kỹ năng mềm như giao tiếp, tiếng anh, thuyết trình.
+  
 Bài 6: Những kĩ năng cần phát triển hiện nay
 +AI tổng hợp từ cái đã có, tự suy nghĩ ý tưởng và hướng đi mới
 + xác định, lập kế hoạch tìm hiểu để giải quyết vấn đề trước khi nhờ AI
